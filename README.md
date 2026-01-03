@@ -39,32 +39,6 @@
 </div>
 
 ###
-
-## About Me
-```typescript
-const tomas = {
-  role: "Software Developer",
-  education: "University Technical Degree in Programming - UTN MDP",
-  specialization: {
-    backend: ["Java", "Spring Boot", "REST APIs", "JWT Authentication"],
-    frontend: ["Angular", "TypeScript", "SPAs", "Responsive Design"],
-    databases: ["PostgreSQL", "MySQL"],
-  }
-};
-```
-
-###
-
-## Key Highlights
-
-- Built secure REST APIs with JWT authentication for multi-role access
-- Developed SPAs using Angular with modular architecture and TypeScript
-- Experienced in Git/GitHub for version control and collaborative development
-- Applied Scrum methodology using Jira for project management
-- Strong focus on clean code, testing, and best practices
-- Advanced English - Ready to collaborate in international teams
-
-###
 <h3 align="center">💼 Open to new opportunities and collaborations!</h3>
 
 <p align="center">
