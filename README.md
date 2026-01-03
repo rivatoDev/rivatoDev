@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Tomás Rivara</h1>
+<h1 align="center">Hey, I'm Tomás Rivara</h1>
 
 <h3 align="center">Software Developer | Java & Spring Boot | Angular</h3>
 
@@ -44,42 +44,16 @@
 ```typescript
 const tomas = {
   role: "Software Developer",
-  location: "Mar del Plata, Argentina",
   education: "University Technical Degree in Programming - UTN MDP",
   languages: ["Spanish (Native)", "English (Advanced)"],
   
   specialization: {
     backend: ["Java", "Spring Boot", "REST APIs", "JWT Authentication"],
     frontend: ["Angular", "TypeScript", "SPAs", "Responsive Design"],
-    databases: ["PostgreSQL", "MySQL", "JPA"],
-    methodologies: ["Scrum", "Agile", "Clean Code"]
+    databases: ["PostgreSQL", "MySQL"],
   },
-  
-  currentFocus: "Building scalable and secure full-stack applications",
-  lookingFor: "Real-world projects in dynamic environments"
 };
 ```
-
-###
-
-## 🚀 Featured Projects
-
-### 🛒 [Shoppify - E-Commerce Platform](https://github.com/Lucasmdv/Shoppify-api)
-**Thesis Project | Spring Boot + Angular + PostgreSQL**
-- 🔐 Secure REST API with JWT authentication and role-based access control
-- 🎨 Single Page Application with responsive design using Angular
-- 📊 Advanced user and product management system
-- 🔄 Agile development using Scrum methodology with Jira
-- 📱 [Frontend Repository](https://github.com/Lucasmdv/Shoppify-ui) | [Backend Repository](https://github.com/Lucasmdv/Shoppify-api)
-
-### 🎮 [E-Commerce for Gamers](https://github.com/rivatoDev/Proyecto-Final-Programacion-III-E-Commerce-Tecnologia)
-**Spring Boot + MySQL + JavaScript**
-- 🔒 JWT-based authentication with multi-role access
-- 📦 Complete CRUD operations for users and products
-- 🏃‍♂️ Implemented using Scrum methodology
-- 🔗 [View Repository](https://github.com/rivatoDev/Proyecto-Final-Programacion-III-E-Commerce-Tecnologia)
-
-###
 
 ## 📊 GitHub Stats
 
@@ -96,18 +70,18 @@ const tomas = {
 
 ###
 
-## 🎯 Key Highlights
+## Key Highlights
 
-- ✅ Built secure REST APIs with JWT authentication for multi-role access
-- ✅ Developed SPAs using Angular with modular architecture and TypeScript
-- ✅ Experienced in Git/GitHub for version control and collaborative development
-- ✅ Applied Scrum methodology using Jira for project management
-- ✅ Strong focus on clean code, testing, and best practices
-- ✅ Advanced English - Ready to collaborate in international teams
+- Built secure REST APIs with JWT authentication for multi-role access
+- Developed SPAs using Angular with modular architecture and TypeScript
+- Experienced in Git/GitHub for version control and collaborative development
+- Applied Scrum methodology using Jira for project management
+- Strong focus on clean code, testing, and best practices
+- Advanced English - Ready to collaborate in international teams
 
 ###
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Frontend**
 ```
@@ -148,5 +122,5 @@ Git • GitHub • Scrum • Jira • Clean Code • Agile
 <h3 align="center">💼 Open to new opportunities and collaborations!</h3>
 
 <p align="center">
-  <i>Let's build something amazing together 🚀</i>
+  <i>Let's build something amazing together!!!</i>
 </p>
