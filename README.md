@@ -1,52 +1,152 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Tomás Rivara</h1>
+
+<h3 align="center">Software Developer | Java & Spring Boot | Angular</h3>
+
+<p align="center">
+  Passionate about building scalable and secure applications. Focused on clean code, testing, and continuous learning.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="http://www.linkedin.com/in/tomas-rivara-7a3337345" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+## 👨‍💻 About Me
+```typescript
+const tomas = {
+  role: "Software Developer",
+  location: "Mar del Plata, Argentina",
+  education: "University Technical Degree in Programming - UTN MDP",
+  languages: ["Spanish (Native)", "English (Advanced)"],
+  
+  specialization: {
+    backend: ["Java", "Spring Boot", "REST APIs", "JWT Authentication"],
+    frontend: ["Angular", "TypeScript", "SPAs", "Responsive Design"],
+    databases: ["PostgreSQL", "MySQL", "JPA"],
+    methodologies: ["Scrum", "Agile", "Clean Code"]
+  },
+  
+  currentFocus: "Building scalable and secure full-stack applications",
+  lookingFor: "Real-world projects in dynamic environments"
+};
+```
+
+###
+
+## 🚀 Featured Projects
+
+### 🛒 [Shoppify - E-Commerce Platform](https://github.com/Lucasmdv/Shoppify-api)
+**Thesis Project | Spring Boot + Angular + PostgreSQL**
+- 🔐 Secure REST API with JWT authentication and role-based access control
+- 🎨 Single Page Application with responsive design using Angular
+- 📊 Advanced user and product management system
+- 🔄 Agile development using Scrum methodology with Jira
+- 📱 [Frontend Repository](https://github.com/Lucasmdv/Shoppify-ui) | [Backend Repository](https://github.com/Lucasmdv/Shoppify-api)
+
+### 🎮 [E-Commerce for Gamers](https://github.com/rivatoDev/Proyecto-Final-Programacion-III-E-Commerce-Tecnologia)
+**Spring Boot + MySQL + JavaScript**
+- 🔒 JWT-based authentication with multi-role access
+- 📦 Complete CRUD operations for users and products
+- 🏃‍♂️ Implemented using Scrum methodology
+- 🔗 [View Repository](https://github.com/rivatoDev/Proyecto-Final-Programacion-III-E-Commerce-Tecnologia)
+
+###
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivatoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rivatoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=rivatoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+## 🎯 Key Highlights
+
+- ✅ Built secure REST APIs with JWT authentication for multi-role access
+- ✅ Developed SPAs using Angular with modular architecture and TypeScript
+- ✅ Experienced in Git/GitHub for version control and collaborative development
+- ✅ Applied Scrum methodology using Jira for project management
+- ✅ Strong focus on clean code, testing, and best practices
+- ✅ Advanced English - Ready to collaborate in international teams
+
+###
+
+## 🛠️ Technical Stack
+
+**Frontend**
+```
+HTML • CSS • JavaScript • TypeScript • Angular
+```
+
+**Backend**
+```
+Java • Spring Boot • Spring Security • JPA • REST APIs
+```
+
+**Database**
+```
+PostgreSQL • MySQL
+```
+
+**Tools & Methodologies**
+```
+Git • GitHub • Scrum • Jira • Clean Code • Agile
+```
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivatoDev/rivatoDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivatoDev/rivatoDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rivatoDev/rivatoDev/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rivatoDev/count.svg?"  />
+</div>
+
+###
+
+<h3 align="center">💼 Open to new opportunities and collaborations!</h3>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
