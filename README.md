@@ -39,7 +39,7 @@
 </div>
 
 ###
-<h3 align="center">💼 Open to new opportunities and collaborations!</h3>
+<h3 align="center">Open to new opportunities and collaborations!</h3>
 
 <p align="center">
   <i>Let's build something amazing together!!!</i>
